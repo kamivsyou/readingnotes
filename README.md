@@ -3,3 +3,4 @@ A growth mindset is a mindset a a person has when they are open to everything an
 1. Go head first at the challenge.
 2. Don't give up ever.
 3. Take your failures as lessons and learn from them.
+![This is an image](https://images.unsplash.com/photo-1604725333736-1f962a6218d0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXRpZnVsJTIwc3Vuc2V0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80)
