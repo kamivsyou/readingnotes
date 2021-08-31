@@ -1,7 +1,9 @@
 # readingnotes
 A growth mindset is a mindset a a person has when they are open to everything and willing to try new things in order to learn more about the topic or whatever the challenge is.
+## The second largest heading
 1. Go head first at the challenge.
     - Don't let a challenge make you run away from what you want.
+## The second largest heading
 2. Don't give up ever.
     - Don't let that challenge get in your heard outsmart and overcome it.
 3. Take your failures as lessons and learn from them.
