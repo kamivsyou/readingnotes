@@ -10,7 +10,7 @@
 ## 3. Take your failures as lessons and learn from them.
    - Failing is great as long as I learn from it.
       
-   ## Notes: 08/31/2021 - 
+## Notes: 08/31/2021 - 
 1. user@bash: ls -l /home/ryan
 2. total 3
 3. drwxr-xr-x  2 ryan users 4096 Mar 23 13:34 bin
