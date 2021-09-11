@@ -46,4 +46,47 @@ Your terminal probably won't have line numbers on it. I have just included them 
 - A collection of code.
 - A way of grouping code.
 - Really large projects might have multiple repositories for different parts of their system(ie: front end vs back end)
+## Notes 9/04/2021
+### Separations of concerns: 
+- HTML - Content and Structure
+- CSS - Presentation
+- JS - Interactions
+### What is HTML?:
+- Structure and Content of the webpage
+- Text 
+- Headlines
+- Images
+- Links
+### Communicates HOW content should be organized
+- Level of importance
+### What is CSS?:
+- Tells browser HOW the content should look
+- Text color
+- Font style and size
+- Placement of content
+- size,type , and weight of borders
+- Responsiveness: adapting the interface to the user’s screen
+### What is JavaScript?:
+- used both on the client-side and server-side
+- Allows you to make the page interactive
+## Notes 9/8/2021
+### Javascript:
+- A regular programming language, easy to start, hard to master.
+- Allows to give some interactivity to the elements on the web
+- Syntax similar to c or Java but with no types.
+- You can change the content of the HTML or the CSS applied to an element.
+- You can even send or retrieve information from the internet to update the content of the web without reloading the page.
+### Javascript API:
+- Access the DOM (HTML nodes)
+- Do HTTP requests
+- Play videos and sounds 
+- Detect user actions (mouse move, key pressed)
+- Launch Threads
+- Access the GPU, get the Webcam image, …
+- And the API keeps growing with every new update of the standard
+### Javascript: crawling the DOM:
+- From javascript you have different variables that you can access to get information about the website:
+- DOCUMENT: the DOM information (HTML)
+- Window: the browser window
+
 ![This is an image](https://images.unsplash.com/photo-1604725333736-1f962a6218d0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXRpZnVsJTIwc3Vuc2V0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80)
